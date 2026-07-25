@@ -1,6 +1,8 @@
 # dances-and-figures
+
 An overview of dances and figures learned in our dancing class:
 
-<a href="./de/overview.mmd">Deutsch</a>
-
-<a href="./en/overview.mmd">English</a>
+<ul>
+    <li><a href="./overview-de.md">Deutsch</a></li>
+    <li><a href="./en/overview.md">English</a></li>
+</ul>
