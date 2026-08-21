@@ -4,7 +4,7 @@
 
 ## Playlist:
 
-<a href="">Nachfragen ob ich die öffentlich hier teilen darf?</a>
+<a href="https://open.spotify.com/playlist/2Y3qY2p48KgxxQPLcoxxmw?si=2jaRVdJaScGoxDOrh1eIhQ">Cha Cha Cha</a>
 
 ## Figuren
 

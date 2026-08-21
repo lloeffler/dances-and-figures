@@ -7,7 +7,7 @@
     <li><a href="./blues/de.md">Blues</a></li>
     <li><a href="./cha-cha-cha/de.md">Cha Cha Cha</a></li>
     <li><a href="./disco-fox/de.md">Disco Fox</a></li>
-    <li><a href="./fox-trott/de.md">Foxtrott</a></li>
+    <li><a href="./foxtrott/de.md">Foxtrott</a></li>
     <li><a href="./jive/de.md">Jive</a></li>
     <li><a href="./rumba/de.md">Rumba</a></li>
     <li><a href="./salsa/de.md">Salsa</a></li>

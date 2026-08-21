@@ -4,7 +4,7 @@
 
 ## Playlist:
 
-<a href="">Nachfragen ob ich die öffentlich hier teilen darf?</a>
+<a href="https://open.spotify.com/playlist/0eiM3NgZsXrrQDggYQS4rx?si=8vwr3vwRTt66yqdLEA-mBQ">Tango</a>
 
 ## Figuren
 
@@ -18,7 +18,7 @@ flowchart TD;
     Valentino --> LaPuerta(La Puerta / Die Türe);
     LaPuerta --> Abschlussschritt;
     Grundschritt -->|1. Schritt kurz nach hinten| Ausfallpromenade(Ausfallpromenade);
-    Ausfallpromenade --> Grundschritt;
+    Ausfallpromenade --> Abschlussschritt;
     Grundschritt -->|Ersten 3 Schritte nach links drehen| Bannana(BANNANA!) --> Abschlussschritt;
 ```
 

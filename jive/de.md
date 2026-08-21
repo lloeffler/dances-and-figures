@@ -4,7 +4,7 @@
 
 ## Playlist:
 
-<a href="">Nachfragen ob ich die öffentlich hier teilen darf?</a>
+<a href="https://open.spotify.com/playlist/1ddtbbkfGvn6QvAerULh6T?si=flKL70vxQxqba-2YsUxGOw">Jive/Boogie</a>
 
 ## Figuren
 

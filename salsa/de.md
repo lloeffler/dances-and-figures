@@ -4,7 +4,7 @@
 
 ## Playlist:
 
-<a href="">Nachfragen ob ich die öffentlich hier teilen darf?</a>
+<a href="https://open.spotify.com/playlist/1TVa1hjjOZQRJJHLmqEnys?si=3qy33BmaRf-vufy160hwyQ">Salsa</a>
 
 ## Figuren
 

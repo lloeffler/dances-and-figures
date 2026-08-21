@@ -4,7 +4,7 @@
 
 ## Playlist:
 
-<a href="">Nachfragen ob ich die öffentlich hier teilen darf?</a>
+<a href="https://open.spotify.com/playlist/6q7elXrQ8aS3HRZAwt7IUY?si=VqlkTKFYTammOQDqKxipIA">Slowfox/Blues</a>
 
 ## Figuren
 

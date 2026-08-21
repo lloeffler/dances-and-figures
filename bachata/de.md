@@ -4,7 +4,7 @@
 
 ## Playlist:
 
-<a href="">Nachfragen ob ich die öffentlich hier teilen darf?</a>
+<a href="https://open.spotify.com/playlist/60FK3V4NoBDEqvl5ifAPB9?si=qxfK_TGNR_qthvfkpzrNdQ">Bachata</a>
 
 ## Figuren
 

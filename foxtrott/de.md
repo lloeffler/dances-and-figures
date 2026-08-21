@@ -4,7 +4,7 @@
 
 ## Playlist:
 
-<a href="">Nachfragen ob ich die öffentlich hier teilen darf?</a>
+<a href="https://open.spotify.com/playlist/1i6KGCWE6Xd2eM3FHY5Ewl?si=oRCDo5E1T12MVThX__vW-g">Foxtrott</a>
 
 ## Figuren
 

@@ -4,7 +4,7 @@
 
 ## Playlist:
 
-<a href="">Nachfragen ob ich die öffentlich hier teilen darf?</a>
+<a href="https://open.spotify.com/playlist/0UbBNjS2BDlfZitO01yy5Z?si=yADr6LcqQUKv0EfA5Bcp8A">Rumba</a>
 
 ## Figuren
 

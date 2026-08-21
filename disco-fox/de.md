@@ -4,7 +4,7 @@
 
 ## Playlist:
 
-<a href="">Nachfragen ob ich die öffentlich hier teilen darf?</a>
+<a href="https://open.spotify.com/playlist/404UBhN7cDK4GKmmg3vGE2?si=V1AJSs9WRBWRHYdeQZ1guw">Discofox</a>
 
 ## Figuren
 

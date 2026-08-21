@@ -4,7 +4,7 @@
 
 ## Playlist:
 
-<a href="">Nachfragen ob ich die öffentlich hier teilen darf?</a>
+<a href="https://open.spotify.com/playlist/2sFPwDCmblJb4DvlGacBd4?si=RwDXu-2rQg-qyfHb-eO0PQ">Samba</a>
 
 ## Figuren
 

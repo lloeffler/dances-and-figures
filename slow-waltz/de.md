@@ -4,7 +4,7 @@
 
 ## Playlist:
 
-<a href="">Nachfragen ob ich die öffentlich hier teilen darf?</a>
+<a href="https://open.spotify.com/playlist/2rXfise9RzKMJdQlgqQ43r?si=wToVcbbRRhKUsEaJL_Ctcw">LaWa</a>
 
 ## Figuren
 
