@@ -39,4 +39,5 @@ flowchart TD;
     Herrentaucher --> Sonne;
     Herrentaucher --> Frisbee;
     Bauchstreichler -->|Rechte Hand Nimmt Ihre linke Hand| SonnenuntergangMitDrehung(Sonnenuntergang mit Drehung?);
+    Bauchstreichler -->|Rechte hand bleibt am Körper| Bauchplatscher(Bauchplatscher/Herrentaucher der 2.);
 ```

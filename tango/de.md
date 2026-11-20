@@ -12,6 +12,7 @@
 flowchart TD;
     Grundschritt(Grundschritt) -->|Energetisch vorwärts gehen| Promenade(Promenade);
     Promenade --> Abschlussschritt(Abschlussschritt) --> Grundschritt;
+    Promenade -->|Vor die Dame drehen| Prommenadenrechtsdrehung(Prommenadenrechtsdrehung) --> Abschlussschritt;
     Grundschritt -->|Ersten 2 Schritte anch rechts drehen| GeschlossenerKreisel(Geschlossener Kreisel);
     GeschlossenerKreisel --> Abschlussschritt;
     Grundschritt -->|1. Schritt weit und tief nach hinten| Valentino(Valentino);

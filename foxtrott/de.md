@@ -15,7 +15,8 @@ flowchart TD;
     Grundschritt -->|Seitlich öffnen| Promenade(Promenade);
     Drehung -->|Seitlich öffnen| Promenade;
     Grundschritt -->|Seitlich öffnen, Linke Hand heben und Dame drehen| DoenerSpiess(Dönerspieß);
-    Drehung -->|Seitlich öffnen, Linke Hand heben undDame drehen| DoenerSpiess;
+    Drehung -->|Seitlich öffnen, Linke Hand heben und Dame drehen| DoenerSpiess;
     Promenade -->|Linke Hand heben und Dame drehen| DoenerSpiess;
     DoenerSpiess -->|Wiederholen| DoenerSpiess;
+    Grundschritt -->|Vorbeigehen und Schulter zum Kreuzen zur Dame drehen| Kreuzschritt;
 ```
