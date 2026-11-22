@@ -18,4 +18,5 @@ flowchart TD;
     Grundschritt -->|Links Hand heben und Dame andrehen, los lassen und mit drehen| GemeinsameDrehungRechts(gemeinsame Drehung rechts) --> Grundschritt;
     DamensoloRechts -->|Rechte Hand nicht los lassen| Koerbchen(Körbchen, ähnlich Disco Fox Grundschritt)
     Koerbchen -->|Rechts Hand heben und Dame drehen| DamensoloLinks  --> Grundschritt;
+Koerbchen -->|Seitenwechsel Gände bleiben gefasst| Abrasala(Abrasala die Umarmung);
 ```
